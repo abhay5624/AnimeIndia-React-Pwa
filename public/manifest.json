@@ -1,0 +1,40 @@
+{
+  
+    "theme_color" : "#f6b835",
+    "background_color" : "#fff",
+    "display" : "standalone",
+    "scope" : ".",
+    "start_url" : ".",
+    "name" : "Anime India",
+    "short_name" : "AnimeIndia",
+    "description" : "A world of anime for you.",
+    "lang": "en-Us",
+    "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "images/icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
